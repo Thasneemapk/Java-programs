@@ -1,4 +1,4 @@
- Result {
+class Result {
     public static void main(String[] args) {
         int r1, r2, r3, r4;
         r1= -5 + 8 * 6;
